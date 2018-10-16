@@ -1,2 +1,2 @@
-# ReduxPractice
-React tutorial using redux 
+# React making component and using states practice
+
